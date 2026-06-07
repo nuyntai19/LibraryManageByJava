@@ -1,0 +1,15 @@
+# Ignore all .class files
+*.class
+
+# Ignore build directories
+build/
+/bin/
+
+/# Ignore IDE-specific files
+# *.iml
+.idea/
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
